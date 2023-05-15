@@ -36,5 +36,5 @@ Amazon Web Services | AWS
     </ul>
 </div>
 
-[Some text](#markdown-header-my-paragraph-title)
+[Some text](#my-paragraph-title)
 
